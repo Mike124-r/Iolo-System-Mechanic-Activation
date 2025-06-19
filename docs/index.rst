@@ -8,6 +8,7 @@ How to Complete Iolo System Mechanic Activation
 
 Iolo System Mechanic is a powerful application for optimizing your PC. It can speed up your computer, correct problems, get rid of unwanted files, and improve the general efficiency of your system. The most crucial thing to do after buying the software is to understand how to activate Iolo System Mechanic so you can use all of its premium features.
 
+.. image:: click-activate-in.png
    :alt: My Project Logo
    :width: 350px
    :align: center
